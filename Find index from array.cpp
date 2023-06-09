@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//code to find the index of in a given number from a array
+//code to find the index of in a given number from a arrays
 
 int binary(int arr[], int size, int num)
 {
